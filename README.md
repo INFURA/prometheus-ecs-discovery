@@ -5,6 +5,10 @@ not have the capacity to discover ECS instances that can be scraped
 by Prometheus.  This program is a Prometheus File Service Discovery
 (`file_sd_config`) integration that bridges said gap.
 
+## Note
+
+This version is a mix of the original and the more uptodate version by terralytics.
+
 ## Help
 
 Run `prometheus-ecs-discovery --help` to get information.
