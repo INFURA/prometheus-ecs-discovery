@@ -7,7 +7,10 @@ by Prometheus.  This program is a Prometheus File Service Discovery
 
 ## Note
 
-This version is a mix of the original and the more uptodate version by terralytics.
+This version is a mix of the original and the more up2date version by terralytics.
+The Dockerfile in this repo is only for testing!
+The production image is actually built by;
+https://github.com/INFURA/cluster/tree/master/services/prometheus/ecs-discovery
 
 ## Help
 
